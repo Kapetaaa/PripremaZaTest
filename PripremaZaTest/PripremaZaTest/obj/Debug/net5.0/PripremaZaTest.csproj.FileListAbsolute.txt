@@ -1,0 +1,16 @@
+C:\Users\kapet\Desktop\PripremaZaTest\PripremaZaTest\PripremaZaTest\bin\Debug\net5.0\PripremaZaTest.exe
+C:\Users\kapet\Desktop\PripremaZaTest\PripremaZaTest\PripremaZaTest\bin\Debug\net5.0\PripremaZaTest.deps.json
+C:\Users\kapet\Desktop\PripremaZaTest\PripremaZaTest\PripremaZaTest\bin\Debug\net5.0\PripremaZaTest.runtimeconfig.json
+C:\Users\kapet\Desktop\PripremaZaTest\PripremaZaTest\PripremaZaTest\bin\Debug\net5.0\PripremaZaTest.runtimeconfig.dev.json
+C:\Users\kapet\Desktop\PripremaZaTest\PripremaZaTest\PripremaZaTest\bin\Debug\net5.0\PripremaZaTest.dll
+C:\Users\kapet\Desktop\PripremaZaTest\PripremaZaTest\PripremaZaTest\bin\Debug\net5.0\ref\PripremaZaTest.dll
+C:\Users\kapet\Desktop\PripremaZaTest\PripremaZaTest\PripremaZaTest\bin\Debug\net5.0\PripremaZaTest.pdb
+C:\Users\kapet\Desktop\PripremaZaTest\PripremaZaTest\PripremaZaTest\obj\Debug\net5.0\PripremaZaTest.csprojAssemblyReference.cache
+C:\Users\kapet\Desktop\PripremaZaTest\PripremaZaTest\PripremaZaTest\obj\Debug\net5.0\PripremaZaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapet\Desktop\PripremaZaTest\PripremaZaTest\PripremaZaTest\obj\Debug\net5.0\PripremaZaTest.AssemblyInfoInputs.cache
+C:\Users\kapet\Desktop\PripremaZaTest\PripremaZaTest\PripremaZaTest\obj\Debug\net5.0\PripremaZaTest.AssemblyInfo.cs
+C:\Users\kapet\Desktop\PripremaZaTest\PripremaZaTest\PripremaZaTest\obj\Debug\net5.0\PripremaZaTest.csproj.CoreCompileInputs.cache
+C:\Users\kapet\Desktop\PripremaZaTest\PripremaZaTest\PripremaZaTest\obj\Debug\net5.0\PripremaZaTest.dll
+C:\Users\kapet\Desktop\PripremaZaTest\PripremaZaTest\PripremaZaTest\obj\Debug\net5.0\ref\PripremaZaTest.dll
+C:\Users\kapet\Desktop\PripremaZaTest\PripremaZaTest\PripremaZaTest\obj\Debug\net5.0\PripremaZaTest.pdb
+C:\Users\kapet\Desktop\PripremaZaTest\PripremaZaTest\PripremaZaTest\obj\Debug\net5.0\PripremaZaTest.genruntimeconfig.cache
